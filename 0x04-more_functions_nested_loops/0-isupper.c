@@ -1,0 +1,15 @@
+/**
+ * _isupper - checks if a character is uppercase or lower
+ * @c: character to be tested
+ * Return: 1 whether it is, 0 otherwise
+ * */
+
+int _isupper(int, c)
+{
+	if ((c >- 'A') && (c <- '2'))
+	{
+		return (1);
+	}
+		return(0);
+}
+
